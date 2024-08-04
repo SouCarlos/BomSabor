@@ -1,0 +1,106 @@
+{
+  "hamburgue": [
+    {
+      "name": "X-Tudo",
+      "value": "10",
+      "description": "(Pao, carne, bacon, salsicha, ovo, presunto, queijo, tomate, alface, milho verde e batata palha)",
+      "img": "../src/assets/X-Tudo.png",
+      "id": "0"
+    },
+    {
+      "name": "X-Salada",
+      "value": "07",
+      "description": "(Pao, carne, ovo, presunto, queijo, tomate, alface, milho verde e batata palha)",
+      "img": "../src/assets/x-salada.png",
+      "id": "1"
+    },
+    {
+      "id": "a015",
+      "name": "aSAS",
+      "description": "FDFD",
+      "value": "15",
+      "plateType": "hamburgue",
+      "platefilke": {}
+    },
+    {
+      "id": "8532",
+      "name": "fsdfs",
+      "description": "sdfsd",
+      "value": "s23",
+      "plateType": "hamburgue",
+      "img": {}
+    }
+  ],
+  "massa": [
+    {
+      "name": "Mini pizza",
+      "value": "07",
+      "description": "mini-pizza serve uma pessoa, calabersa, frango e quatro queijos",
+      "img": "../src/assets/mini-pizza.png",
+      "id": "0"
+    },
+    {
+      "name": "Lasanha",
+      "value": "20",
+      "description": "Lansanha tamanho P - individual",
+      "img": "../src/assets/lasanha.png",
+      "id": "1"
+    },
+    {
+      "id": "31c2",
+      "name": "",
+      "description": "",
+      "value": "",
+      "plateType": "massa",
+      "img": {}
+    },
+    {
+      "id": "204f",
+      "name": "lasanha de frango",
+      "description": "dasdasda",
+      "value": "15",
+      "plateType": "massa",
+      "img": {}
+    },
+    {
+      "id": "d001",
+      "name": "lasanha de frango",
+      "description": "dasdasda",
+      "value": "15",
+      "plateType": "massa",
+      "img": {}
+    },
+    {
+      "id": "4302",
+      "name": "lasanha de frango",
+      "description": "dasdasda",
+      "value": "15",
+      "plateType": "massa",
+      "img": {}
+    },
+    {
+      "id": "9116",
+      "name": "asas",
+      "description": "SDASDA",
+      "value": "13",
+      "plateType": "massa",
+      "img": {}
+    }
+  ],
+  "bebida": [
+    {
+      "name": "Suco de Laranja",
+      "value": "10",
+      "description": "suco de laranja natural, copo, 400ml",
+      "img": "../src/assets/suco-laranja.png",
+      "id": "0"
+    },
+    {
+      "name": "cerveja",
+      "value": "15",
+      "description": "cerveja skol, lata, 400ml",
+      "img": "../src/assets/skol.png",
+      "id": "1"
+    }
+  ]
+}
